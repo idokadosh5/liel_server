@@ -1,0 +1,157 @@
+
+[{
+  "_id": {
+    "$oid": "66a7aa52c612debf957d9acd"
+  },
+  "name": "Pomodoro Piza",
+  "type": "Italian",
+  "description": "8 slices of piza with 100% Tomato Souce and Mozarela Cheese.",
+  "price": 15.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/pizza-mozzarella-cheese-ham-tomatoes-pepper-spices-fresh-basil-italian-isolated-white-background-copy-sliced-space-top-126945824.jpg",
+    "alt": "piza photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7ac92c612debf957d9ace"
+  },
+  "name": "4 Cheese Ravioli",
+  "type": "Italian",
+  "description": "Ravioli filled with a combination of 4 types of cheese in a Alfredo souce.",
+  "price": 36.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/ravioli-8613407.jpg",
+    "alt": "ravioli photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7ad35c612debf957d9acf"
+  },
+  "name": "Alfredo Pasta",
+  "type": "Italian",
+  "description": "Pasta to your choice in Alfredo souce.",
+  "price": 25.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/chicken-alfredo-4069093.jpg",
+    "alt": "pasta photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7ae67c612debf957d9ad0"
+  },
+  "name": "Fat Burger Combo",
+  "type": "American",
+  "description": "Dubble patty burger with large potato wages and a soft drink to your choice.",
+  "price": 56.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/closeup-home-made-beef-burgers-lettuce-mayonnaise-served-little-wooden-cutting-board-dark-background-burger-112812688.jpg",
+    "alt": "burger and wages photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7af0bc612debf957d9ad1"
+  },
+  "name": "Light Burger",
+  "type": "American",
+  "description": "200 grams patty with all the vaggies.",
+  "price": 40.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/burger-3680169.jpg",
+    "alt": "little burger photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7af6fc612debf957d9ad2"
+  },
+  "name": "Corndog",
+  "type": "American",
+  "description": "American Street Corndog on a stick with 5 topings to chose from.",
+  "price": 23.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/organic-corndog-stick-28962041.jpg?ct=jpeg",
+    "alt": "corndog photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7afcbc612debf957d9ad3"
+  },
+  "name": "Standart Sushi roll",
+  "type": "Asian",
+  "description": "One sushi roll with 3 addons: Carrot, Ququmber and Tamago.",
+  "price": 41.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/sushi-17077436.jpg",
+    "alt": "sushi photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7b058c612debf957d9ad4"
+  },
+  "name": "Phad Thi Noodles",
+  "type": "Asian",
+  "description": "A bowl of noodles fried with meat and vegies.",
+  "price": 52.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/stir-fried-noodle-11668788.jpg?ct=jpeg",
+    "alt": "noodles photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a7b0c3c612debf957d9ad5"
+  },
+  "name": "Fried Chiken Box",
+  "type": "Asian",
+  "description": "A box filled with 6 pices of spicy fried chiken.",
+  "price": 62.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/fried-chicken-25639747.jpg",
+    "alt": "fried chiken photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae4bdfa74c94ffe3d416c9"
+  },
+  "name": "Vegie Salad",
+  "type": "Vegeterian",
+  "description": "3 vegies sliced with vinigrate souce",
+  "price": 12.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/food-8267668.jpg",
+    "alt": "salad photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae4c76a74c94ffe3d416ca"
+  },
+  "name": "Stuffed Eggplant",
+  "type": "Vegeterian",
+  "description": "Eggplant stuffed with cheese",
+  "price": 26.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/chinese-food-17162711.jpg",
+    "alt": "stuffed eggplant photo"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ae4d17a74c94ffe3d416cc"
+  },
+  "name": "Spicy Tofu",
+  "type": "Vegeterian",
+  "description": "Fried tofu with a spicy asian souce",
+  "price": 31.99,
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/spicy-tofu-5514350.jpg",
+    "alt": "Spicy Tofu photo"
+  }
+}]

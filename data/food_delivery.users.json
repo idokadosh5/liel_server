@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "60d5ec49f1b2f9a7d1234561"
+  },
+  "name": {
+    "first": "Uri",
+    "middle": "the",
+    "last": "User"
+  },
+  "phone": "050-1234567",
+  "email": "user@gmail.com",
+  "password": "User123!",
+  "image": {
+    "url": "/images/profile/user.svg",
+    "alt": "User Profile"
+  },
+  "address": {
+    "state": "Israel",
+    "country": "Israel",
+    "city": "Haifa",
+    "street": "Lotus",
+    "houseNumber": 15,
+    "zip": 111111
+  },
+  "isAdmin": false,
+  "isBusiness": false
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f1b2f9a7d1234562"
+  },
+  "name": {
+    "first": "Benny",
+    "middle": "the",
+    "last": "Business"
+  },
+  "phone": "052-1234567",
+  "email": "biz@gmail.com",
+  "password": "Biz123!",
+  "image": {
+    "url": "/images/profile/business.svg",
+    "alt": "Business Profile"
+  },
+  "address": {
+    "state": "Israel",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "street": "Sderot Begin",
+    "houseNumber": 62,
+    "zip": 222222
+  },
+  "isAdmin": false,
+  "isBusiness": true
+},
+{
+  "_id": {
+    "$oid": "66e30b9661dfd8e13de177d9"
+  },
+  "name": {
+    "first": "Dani",
+    "middle": "The",
+    "last": "Model",
+    "_id": {
+      "$oid": "66e30b9661dfd8e13de177da"
+    }
+  },
+  "phone": "0508259974",
+  "email": "Dani@gmail.com",
+  "password": "$2a$10$I8MFtGROF5W.9fGv8B5HM.9FwRmsDYLI8WXgI8l96wsMC.sI9SevW",
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/happy-couple-near-eiffel-tower-winter-day-happy-couple-near-eiffel-tower-winter-day-trip-to-paris-season-159197576.jpg",
+    "alt": "profilepicture",
+    "_id": {
+      "$oid": "66e30b9661dfd8e13de177db"
+    }
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-09-12T15:41:10.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T15:41:10.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e30bce61dfd8e13de177df"
+  },
+  "name": {
+    "first": "Dani",
+    "middle": "The",
+    "last": "Model",
+    "_id": {
+      "$oid": "66e30bce61dfd8e13de177e0"
+    }
+  },
+  "phone": "0508259974",
+  "email": "Dani2@gmail.com",
+  "password": "$2a$10$CPwaBWOkT46F150QoXEWQuUFNYzXYJJijw1mB2XhRFBjbiiMNwcXi",
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/happy-couple-near-eiffel-tower-winter-day-happy-couple-near-eiffel-tower-winter-day-trip-to-paris-season-159197576.jpg",
+    "alt": "profilepicture",
+    "_id": {
+      "$oid": "66e30bce61dfd8e13de177e1"
+    }
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-09-12T15:42:06.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T15:42:06.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e30c0391943c97a454a905"
+  },
+  "name": {
+    "first": "Dani",
+    "middle": "The",
+    "last": "Model",
+    "_id": {
+      "$oid": "66e30c0391943c97a454a906"
+    }
+  },
+  "phone": "0508259974",
+  "email": "Dani22@gmail.com",
+  "password": "$2a$10$0lMIiYYrKzSY8bNUCMewgehU53NbsAYzZu30TeElx7vZ7kM2p77oK",
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/happy-couple-near-eiffel-tower-winter-day-happy-couple-near-eiffel-tower-winter-day-trip-to-paris-season-159197576.jpg",
+    "alt": "profilepicture",
+    "_id": {
+      "$oid": "66e30c0391943c97a454a907"
+    }
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-09-12T15:42:59.538Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T15:42:59.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e30c3591943c97a454a90b"
+  },
+  "name": {
+    "first": "Dani",
+    "middle": "The",
+    "last": "Model",
+    "_id": {
+      "$oid": "66e30c3591943c97a454a90c"
+    }
+  },
+  "phone": "0508259974",
+  "email": "Dani12@gmail.com",
+  "password": "$2a$10$LelkLgK5KG2Mv3v/7bHNwujP.HvIf3fTfv1FtsduBmhvM7xoydt3G",
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/happy-couple-near-eiffel-tower-winter-day-happy-couple-near-eiffel-tower-winter-day-trip-to-paris-season-159197576.jpg",
+    "alt": "profilepicture",
+    "_id": {
+      "$oid": "66e30c3591943c97a454a90d"
+    }
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-09-12T15:43:49.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T15:43:49.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e5eab61589b4a28daba9c4"
+  },
+  "name": {
+    "first": "New",
+    "middle": "Created",
+    "last": "Admin",
+    "_id": {
+      "$oid": "66e5eab61589b4a28daba9c5"
+    }
+  },
+  "phone": "054-1234111",
+  "email": "newadmin@gmail.com",
+  "password": "$2a$10$40BsIz6nTp0c9Y3/WoQWMuyXMENKSSRpqiju.StEXq8sfOWJat36C",
+  "image": {
+    "url": "https://thumbs.dreamstime.com/z/woman-fashion-hairstyle-make-up-trendy-black-lacy-choker-cristals-portrait-beautiful-young-blonde-149710631.jpg",
+    "alt": "User Profile",
+    "_id": {
+      "$oid": "66e5eab61589b4a28daba9c6"
+    }
+  },
+  "address": {
+    "state": "Israel",
+    "country": "Israel",
+    "city": "Ashdod",
+    "street": "Exsodus",
+    "houseNumber": 15,
+    "zip": "452158",
+    "_id": {
+      "$oid": "66e5eab61589b4a28daba9c7"
+    }
+  },
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-09-14T19:57:42.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-14T19:57:42.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e957f439678a249b8a1a18"
+  },
+  "name": {
+    "first": "Arik",
+    "middle": "",
+    "last": "Lavi",
+    "_id": {
+      "$oid": "66e957f439678a249b8a1a19"
+    }
+  },
+  "phone": "0502588455",
+  "email": "Arik@gmail.com",
+  "password": "$2a$10$agVnKIIRk8D1EztNZ4Nyrus.vvI7YOpXHRznmIfsc8Eixb/pUZq2G",
+  "image": {
+    "url": "https://cdn.dribbble.com/users/40756/screenshots/6232646/side-profile-woman_2x_4x.png",
+    "alt": "picture",
+    "_id": {
+      "$oid": "66e957f439678a249b8a1a1a"
+    }
+  },
+  "address": {
+    "state": "mercaz",
+    "country": "Israel",
+    "city": "Haifa",
+    "street": "Yam",
+    "houseNumber": 15,
+    "_id": {
+      "$oid": "66e957f439678a249b8a1a1b"
+    }
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-09-17T10:20:36.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-17T10:20:36.145Z"
+  },
+  "__v": 0
+}]
