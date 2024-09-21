@@ -1,6 +1,11 @@
 FROM node:18.16.0-alpine3.17
 RUN mkdir -p /opt/app
 WORKDIR /opt/app
+ENV DB_HOST=localhost
+ENV DB_USER=myUser
+ENV DB_PASS=myPassword
+ENV JWT_SECRET=your_secret_key
+ENV PORT=3000
 COPY package.json package-lock.json .
 RUN npm install
 COPY . .
