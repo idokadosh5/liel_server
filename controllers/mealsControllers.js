@@ -1,4 +1,4 @@
-const schemas = require("../schemas/MealsSchema");
+const schemas = require("../schemas/mealsSchema");
 const Meal = require("../models/Meals");
 
 const getAllMeals = async (req, res) => {
