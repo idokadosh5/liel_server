@@ -6,8 +6,9 @@ ENV DB_USER=myUser
 ENV DB_PASS=myPassword
 ENV JWT_SECRET=your_secret_key
 ENV PORT=3000
+RUN npm install -g nodemon
 COPY package.json package-lock.json .
-RUN npm install
+RUN npm install 
 COPY . .
 EXPOSE 3000
 CMD [ "npm", "run", "dev"]
