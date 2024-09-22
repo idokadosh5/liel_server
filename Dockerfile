@@ -6,8 +6,8 @@ ENV DB_USER=myUser
 ENV DB_PASS=myPassword
 ENV JWT_SECRET=your_secret_key
 ENV NODE_ENV=dev
-ENV MONGODB_URI_DEV=mongodb://username:password@localhost:27017/mydatabase
-ENV MONGODB_URI_PROD=mongodb://username:password@localhost:27017/mydatabase
+ENV MONGODB_URI_DEV=mongodb://username:password@mongodb-service.liel-app.svc.cluster.local:27017/mydatabase
+ENV MONGODB_URI_PROD=mongodb://username:password@mongodb-service.liel-app.svc.cluster.local:27017/mydatabase
 ENV PORT=3000
 RUN npm install -g nodemon
 COPY package.json package-lock.json .
