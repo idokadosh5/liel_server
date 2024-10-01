@@ -3,8 +3,8 @@ RUN mkdir -p /opt/app
 WORKDIR /opt/app
 ENV JWT_SECRET=ec9f9c8a6a3a5f4b8b4c2a9d6d7e1e2b7a1f9c3e7b9a4e6d4b5c1f9a2d6b8f3
 ENV NODE_ENV=dev
-ENV MONGODB_URI_DEV=mongodb://username:password@mongo-0.mongo.default.svc.cluster.local:27017,mongo-1.mongo.default.svc.cluster.local:27017,mongo-2.mongo.default.svc.cluster.local:27017/mydatabase?replicaSet=rs0
-ENV MONGODB_URI_PROD=mongodb://username:password@mongo-0.mongo.default.svc.cluster.local:27017,mongo-1.mongo.default.svc.cluster.local:27017,mongo-2.mongo.default.svc.cluster.local:27017/mydatabase?replicaSet=rs0
+ENV MONGODB_URI_DEV=mongodb://username:password@mongo-0.mongo.liel-app.svc.cluster.local:27017,mongo-1.mongo.liel-app.svc.cluster.local:27017,mongo-2.mongo.liel-app.svc.cluster.local:27017/mydatabase?replicaSet=rs0
+ENV MONGODB_URI_PROD=mongodb://username:password@mongo-0.mongo.liel-app.svc.cluster.local:27017,mongo-1.mongo.liel-app.svc.cluster.local:27017,mongo-2.mongo.liel-app.svc.cluster.local:27017/mydatabase?replicaSet=rs0
 ENV PORT=3000
 RUN npm install -g nodemon
 COPY package.json package-lock.json .
